@@ -1,0 +1,8 @@
+Origin: i am not very creative with usernames repo
+Label: i am not very creative with usernames repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: This is a cydia repo where i will put any tweaks or themes i make

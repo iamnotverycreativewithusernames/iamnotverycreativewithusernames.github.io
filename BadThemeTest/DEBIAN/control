@@ -1,0 +1,10 @@
+Package: io.github.iamnotverycreativewithusernames.testtheme
+Name: Test Theme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is a test theme for my badly drawn theme
+Depiction: 
+Homepage: iamnotverycreativewithusernames.github.com
+Maintainer: iamnotverycreativewithusernames
+Author: iamnotverycreativewithusernames 
+Section: Themes
