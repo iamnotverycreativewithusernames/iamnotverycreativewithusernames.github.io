@@ -1,0 +1,11 @@
+Package: io.github.iamnotverycreativewithusernames.win95
+Name: Windows 95 Boot Sound
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a windows 95 boot sound for the package 'BootSound'
+Depends: com.cl3ment.bootsound
+Depiction: 
+Homepage: iamnotverycreativewithusernames.github.com
+Maintainer: iamnotverycreativewithusernames
+Author: iamnotverycreativewithusernames 
+Section: Themes
